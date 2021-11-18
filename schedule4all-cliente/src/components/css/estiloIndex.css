@@ -1,0 +1,149 @@
+button, #dropdown-basic-button{
+	width: 130px;
+	height: 40px;
+	border: none;
+	font-family: Saira;
+	font-weight: SemiBold;
+	font-size: 18px;
+	cursor: pointer;
+	border-radius: 20px;
+	margin-right: 10px;
+	color: white;
+}
+
+#dropdown-basic-button{
+	background-color: #5956F2
+}
+
+#main_title{
+	font-family: "Zilla Slab Highlight";
+	margin-top: 15px;
+	font-size: 3em;
+	display: inline-block;
+	color: white;	
+}
+
+img {
+	margin-left: 65px;
+	width: 125px; 
+	height: 125px;  
+}
+
+#barraBotones{
+	margin-bottom: 25px;
+	margin-left: 260px;
+}
+
+#slogan{
+	font-family: Righteous;
+	font-weight: Regular;
+	margin-left: -65px;
+	line-height: 10px;
+	text-align: left;
+}
+
+#sloganMain{
+	color: white;
+	font-size: 66px;
+}
+
+#sloganSub{
+	color: #5956F2;
+	font-size: 50px;
+}
+
+#description{
+	font-family: Oxygen;
+	font-weight: Bold;
+	font-size: 22px;
+	line-height: 30px;
+	margin-top: 45px;
+	color: white;
+}
+
+#btnConocer{
+	background-color: #5956F2;
+	margin-left: 10%;
+	margin-top: 0px;	
+	width: 450px;
+}
+
+#btnConocer a{	
+	margin-right: 10%;
+	color: white;
+	text-decoration: none;
+}
+
+#mainImagen{
+	width: 550px;
+	float: right;
+	margin-top: -85px;
+	margin-bottom: 65px;
+}
+
+#container-index{
+	margin-top: -80px;
+}
+
+#btnSubmit {
+	color: #2385E0;
+	background-color: #ffff;
+	border: 2px solid #2385E0;
+}
+
+#btnCancelar{
+	background-color: #2385E0;
+}
+
+#subMenuGaleria li{
+	width: 150px;
+	height: 40px;
+	border: none;
+	font-family: Saira;
+	font-weight: SemiBold;
+	font-size: 1em;
+	cursor: pointer;
+	border-radius: 20px;
+	background-color: #6f6ce9;
+	list-style-type: none;
+	margin-top: 1px;
+}
+
+#sign_in{
+	width: 550px;
+	margin-top: -75px;
+	margin-left: 95px;
+	margin-bottom: 75px;
+	float: right;
+	font-family: Roboto Slab;
+	text-align: left;
+	font-weight: bold;
+	color: #2385E0;
+}
+
+#sign_in h1{
+	text-align: center;
+	font-size: 2em;
+	margin-bottom: 25px;
+}
+
+#form{
+	font-size: 1.2em;
+	display: grid;
+	grid-template-columns: 1.5fr 1.5fr;
+	row-gap: 25px;
+}
+
+#formButtons{
+	margin-top: 25px;
+	float: right;
+}
+
+#altSignIn{
+	margin-top: 20px;
+	float: right;
+}
+
+#formButtons{
+	display: inline-block;
+}
